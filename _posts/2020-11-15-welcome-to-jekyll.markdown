@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Erection.Digital!"
-date:   2020-11-15 18:44:09 +0000
+date:   2020-11-15 18:44:09 +0500
 categories: jekyll update
 ---
 
