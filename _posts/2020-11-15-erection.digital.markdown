@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to Erection.Digital!"
+date:   2020-11-15 20:51:09 +0500
+categories: jekyll update
+---
+
+# Welcome to the Digital Erection Zone
+
+![Penis Photoshoot](/assets/penis-photo-bomb.jpg)
+
+This is your source for digital erections
