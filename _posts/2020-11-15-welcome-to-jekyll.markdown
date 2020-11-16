@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Erection.Digital!"
+title:  "New Site Please Ignore"
 date:   2020-11-15 18:44:09 +0500
 categories: jekyll update
 ---
 
-Welcome, please make yourself comfortable while we test the site.
+Test Post, Please Ignore - May Delete Later
