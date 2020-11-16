@@ -11,4 +11,6 @@ categories: jekyll update
 
 This is your source for digital erections
 
+{% raw %}
 <iframe src="https://4qq.org/@John/105217557275139012/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://4qq.org/embed.js" async="async"></script>
+{% endraw %}
